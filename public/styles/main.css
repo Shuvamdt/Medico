@@ -1,0 +1,48 @@
+.carousel-item img {
+    width: 100%;
+    height: 400px;
+    object-fit: cover;
+}
+.form{
+    padding: 40px;
+}
+header{
+    background-color: #EE4E4E;
+}
+footer{
+    background-color: #EE4E4E;
+}
+
+body{
+    font-family: "Nunito", sans-serif !important;
+    font-optical-sizing: auto !important;
+    font-weight: 100px !important;
+    font-style: normal !important;
+    background-color: #F6EEC9 !important;
+}
+html,body{
+    height: 100%;
+}
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+.buttons{
+    background-color: #799351 !important;
+    color: beige !important;
+}
+.card-body{
+    background-color: #A1DD70;
+}
+.card{
+    margin-bottom: 30px;
+    background-color: #799351 !important;
+}
+.sour-gummy{
+    font-family: "Sour Gummy", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 300px;
+    font-style: normal;
+    font-variation-settings:"wdth" 100;
+}
